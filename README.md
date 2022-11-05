@@ -10,5 +10,7 @@ Performance metrics of the implementation are presented below.
 | SSTE (degrees) | 0.09600 | 0.10009 | 0.14021 |
 | Max Angle w/o Tipover (degrees) | Does not apply | Does not apply | 89.92 (higher angles cause tip-over) |
 
+![My Image](images/propeller_arm_angle.png)
+
 The model in the source folder only includes the controller as the model for propeller arm does not belong to me.
 
