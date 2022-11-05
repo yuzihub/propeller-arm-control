@@ -12,5 +12,5 @@ Performance metrics of the implementation are presented below.
 
 ![My Image](images/propeller_arm_angle.png)
 
-The model in the source folder only includes the controller as the model for propeller arm does not belong to me.
+The model in the source folder only includes the controller since the model for propeller arm is not my intellectual property.
 
